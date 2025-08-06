@@ -20,7 +20,7 @@
 20. dema 地
 21. tiup 洞
 22. koi 天
-23. nima 人
+23. mio 人
 24. ngau 狗
 25. misa 貓
 26. wiloe 鳥
@@ -44,7 +44,7 @@
 44. teko 房
 45. daegoe 門
 46. lit 路
-47. zat yiu 火車
+47. voko 火車
 48. xaeiu 書
 49. tik 筆
 50. qelik 刀
@@ -141,6 +141,9 @@
 141. re 更
 142. ti 問
 143. tit 問卷
-144. be 反被動助詞
-145. lout 單詞
-146. wit 檢查
+144. lout 單詞
+145. wit 檢查
+146. kama 我們
+147. kara 我們（不包括你）
+148. numa 你們
+149. toma 他們
