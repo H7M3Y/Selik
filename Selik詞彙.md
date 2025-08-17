@@ -65,7 +65,7 @@
 65. wiip 跳
 66. io 走
 67. tak 喫
-68. hoo 喝
+68. mogu 喝
 69. suu 睡
 70. lio 說
 71. ya 愛 v.
@@ -102,7 +102,7 @@
 102. guk 醜
 103. bi 重
 104. fi 輕
-105. zae 熱
+105. zaeh 熱
 106. qioe 冷
 107. tikoe 對
 108. kat 錯
@@ -119,7 +119,7 @@
 119. tisi 問題
 120. ka 我
 121. nu 你
-122. to 他
+122. to 他（這）
 123. ae 是
 124. oe 否
 125. qe 和
@@ -133,12 +133,12 @@
 133. na 什麼
 134. jo 如何
 135. nea 爲什麼
-136. lora 總是
-137. sik 只是
-138. tia 仍 still
-139. toi 還 yet; in addition
-140. ala 另 else; moreover
-141. re 更
+136. lora 總、時間全稱
+137. sik 衹、限定排除
+138. tia 仍、持續
+139. toi 還、增添
+140. ala 另、分離遞進
+141. re 更、補充
 142. ti 問
 143. tit 問卷
 144. lout 單詞
