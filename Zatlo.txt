@@ -1,7 +1,7 @@
 Iuh		明	iuh     (  古作 U u	)
 Aeloe	月	aeloe   (  古作 A a	)
 Goma	山	goma
-Dema	地			(  腳 doro	)
+Rilo	河	rilo
 Ha		上	ha
 		，
 Kitae	星	kitae
@@ -17,7 +17,7 @@ Naa		光	naa
 O		外	o		(後起 Oe oe	)
 		，
 Cika	沙	cika
-Rilo	河	rilo
+Dema	地			(  腳 doro	)
 Ilo		眼	ilo
 Eli		耳	eli
 Iuh		明	iuh     (  古作 U u	)
