@@ -1,0 +1,47 @@
+Iuh		明	iuh     (  古作 U u	)
+Aeloe	月	aeloe   (  古作 A a	)
+Goma	山	goma
+Dema	地			(  腳 doro	)
+Ha		上	ha
+		，
+Kitae	星	kitae
+Molo	雲	molo
+Lita	雨	lita
+Siu		水	siu
+Vou		聲	vou
+		。
+Xi		葉	xi
+Tola	日	tola
+Fea     風	fea
+Naa		光	naa
+O		外	o		(後起 Oe oe	)
+		，
+Cika	沙	cika
+Rilo	河	rilo
+Ilo		眼	ilo
+Eli		耳	eli
+Iuh		明	iuh     (  古作 U u	)
+		。
+Zat		火	zat
+Wiloe	鳥	wiloe
+Jau		墜	jau
+Qelik	刀	qelik
+Aeloe	月	aeloe   (  古作 A a	)
+		，
+O		外	o		(後起 Oe oe	)
+		錢	ngi 	( 	Ng 鼻	)
+Po		予	po
+Yilit	蛇	yilit
+Bota	心	bota
+		。
+
+ou	=>	0
+te	=>	1
+kae	=>	2
+sei	=>	3
+lok	=>	4
+mu	=>	5
+luu	=>	6
+qei	=>	7
+bok	=>	8
+go	=>	9

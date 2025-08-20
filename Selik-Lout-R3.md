@@ -1,0 +1,9 @@
+573. ate 本
+574. daze 基
+575. qiisoe 源
+576. komi 樸、天然
+577. nove 助、幫、輔、協
+578. lakia 救、保
+579. zatlo 字母表
+580. qanga 語氣
+581. eite 定義
