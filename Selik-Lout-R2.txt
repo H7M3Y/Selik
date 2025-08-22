@@ -167,7 +167,7 @@
 316.	kio		空間
 317.	aaf		寬
 318.	kik		窄
-319.	daa		廣、可用於抽象
+319.	dana	廣、可用於抽象
 320.	bik		狹、可用於抽象
 321.	miio	大致
 322.	iva		幾乎
@@ -347,13 +347,13 @@
 496.	nawa	變
 497.	nali	成
 498.	loeuf	易、換
-499.	laekoe	師
+499.	lamio	師
 500.	qii		正
 501.	ikki	歪
 502.	cahe	難
 503.	ii		簡單
 504.	heho	凋
-505.	loeh	欲 v.
+505.	loeh	欲、準備 v.
 506.	bakia	獵
 507.	selau	漁
 508.	demi	农
@@ -400,7 +400,7 @@
 549.	dauno	稼 v.
 550.	nake	穡 
 551.	kap		捕
-552.	nane	獲、穫
+552.	nane	獲、穫、得
 553.	loyo	肴
 554.	timu	鹽
 555.	sahe	目的格動詞
