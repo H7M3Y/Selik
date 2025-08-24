@@ -69,3 +69,26 @@
 641. limi 拉
 642. ataf 連
 643. seme 記
+644. lania 故事
+645. aaqia 神話
+646. bali 誕、生
+647. ippo 出現、表現
+648. seit 角
+649. seitoseit 三角形
+650. ao 元音
+651. boepoe 輔音
+652. kaeke 輻射 v.
+653. mionia 族
+654. kana 幾（疑問）
+655. lenge 峰、巅
+656. venoa 它（生命）（那）
+657. veta 它（事）（那）
+658. vea 它（物）（那）
+659. tomaa 他們（那）
+660. iana 這
+661. oana 那
+662. voma feso 饅頭
+663. fekia feso 面包
+664. moka sito 面
+665. miwi sito 拌面
+666. zare sito 炒面
