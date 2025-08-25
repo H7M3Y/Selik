@@ -1,0 +1,108 @@
+573.	ate		本
+574.	daze	基
+575.	qiisoe	源
+576.	komi	樸、天然
+577.	nove	助、幫、輔、協、祐、佑
+578.	lakia	救、保
+579.	zatlo	字母表
+580.	qanga	語氣
+581.	eite	定義
+582.	tewa	折、轉
+583.	nolo	覆
+584.	teta	毀
+585.	naulo	滅、消失
+586.	zaroeu	災
+587.	bemeta	禍、害
+588.	oeufi	幸、幸運、僥幸
+589.	biara	福
+590.	zakla	焊
+591.	aase	異、奇 v.
+592.	qela	同
+593.	mata	敬
+594.	taake	怪 q.
+595.	kate	責、怪
+596.	lap		告、訴
+597.	toce	信 v.
+598.	rela	顏色
+599.	qila	油
+600.	qiloi	脂、膏
+601.	miloi	奶酪
+602.	mila	奶
+603.	zafia	煎
+604.	qoza	炸
+605.	moka	煮
+606.	mokia	燒
+607.	zaeliu	烤
+608.	voma	蒸
+609.	fekia	焙
+610.	file	切、斬
+611.	sale	洗、濯
+612.	sokit	焯
+613.	make	醃、漬
+614.	zare	炒
+615.	sake	浸
+616.	siut	泡
+617.	sakit	蘸
+618.	soose	潜
+619.	sore	涮
+620.	moko	焖、焗
+621.	kele	粉、塵
+622.	keli	末、碎屑
+623.	laekoe	拍
+624.	tare	舂
+625.	miwi	混、拌
+626.	nate	融
+627.	zaele	熔
+628.	salo	溶
+629.	lavia	挼、揉
+630.	oola	裹、披、穿
+631.	ekko	嵌
+632.	alasele	燴、勾芡
+633.	siele	芡粉、澱粉
+634.	kiuboe	煙
+635.	kiubi	熏
+636.	sahet	瀝
+637.	asa		淋
+638.	alak	撒、放手
+639.	melak	牽、攥、持、握手
+640.	loko	推
+641.	limi	拉
+642.	ataf	連
+643.	seme	記
+644.	lania	故事
+645.	aaqia	神話
+646.	bali	誕、生
+647.	ippo	出現、表現
+648.	seit	角
+649.  seitoseit	三角形
+650.	ao		元音
+651.	boepoe	輔音
+652.	kaeke	輻射 v.
+653.	mionia	族
+654.	kana	幾（疑問）
+655.	lenge	峰、巅
+656.	venoa	它（生命）（那）
+657.	veta	它（事）（那）
+658.	vea		它（物）（那）
+659.	tomaa	他們（那）
+660.	iana	這
+661.	oana	那
+662.	voma	feso 饅頭
+663.	fekia	feso 面包
+664.	moka	sito 面
+665.	miwi	sito 拌面
+666.	zare	sito 炒面
+667.	pelia	掛、吊
+668.	hadoi	墻
+669.	hada	高
+670.	igo		低、矮
+671.	liae	畫
+672.	kihe	銳
+673.	boca	鈍
+674.	hobo	强
+675.	iyo		弱
+676.	meip	會、遇、見面
+677.	tekoi	計、謀 n.
+678.	oasia	鑑、鏡
+679.	zei		恥 n.
+680.	qoo		傷
