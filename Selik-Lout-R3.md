@@ -22,8 +22,8 @@
 594. taake 怪 q.
 595. kate 責、怪
 596. lap 告、訴
-597. toce 信
-598. rela 色
+597. toce 信 v.
+598. rela 顏色
 599. qila 油
 600. qiloi 脂、膏
 601. miloi 奶酪
@@ -55,7 +55,7 @@
 627. zaele 熔
 628. salo 溶
 629. lavia 挼、揉
-630. oola 裹、披
+630. oola 裹、披、穿
 631. ekko 嵌
 632. alasele 燴、勾芡
 633. siele 芡粉、澱粉
@@ -64,7 +64,7 @@
 636. sahet 瀝
 637. asa 淋
 638. alak 撒、放手
-639. melak 牽、攥、握手
+639. melak 牽、攥、持、握手
 640. loko 推
 641. limi 拉
 642. ataf 連
@@ -92,3 +92,17 @@
 664. moka sito 面
 665. miwi sito 拌面
 666. zare sito 炒面
+667. pelia 掛、吊
+668. hadoi 墻
+669. hada 高
+670. igo 低、矮
+671. liae 畫
+672. kihe 銳
+673. boca 鈍
+674. hobo 强
+675. iyo 弱
+676. meip 會、遇、見面
+677. tekoi 計、謀 n.
+678. oasia 鑑、鏡
+679. zei 恥 n.
+680. qoo 傷

@@ -225,7 +225,7 @@
 374.	ceso	欺
 375.	gase	凌
 376.	qeme	詐、假裝
-377.	loa		船
+377.	loa		船、舟
 378.	lef		槳
 379.	koek	塊
 380.	jee		片

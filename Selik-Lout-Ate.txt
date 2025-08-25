@@ -88,7 +88,7 @@
 88.		pit		短
 89.		zik		快
 90.		lolo	慢
-91.		raka	硬
+91.		raka	硬、堅
 92.		moe		軟
 93.		cafa	粗糙
 94.		yila	光滑
